@@ -9,7 +9,6 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-*Following the [Learn Autodesk Fusion 360 in 30 Days (2026 Edition)](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr) playlist by Product Design Online — one model, one skill, one day at a time.*
 
 </div>
 
@@ -108,13 +107,7 @@ By Day 30, this challenge covers the full Fusion 360 toolkit used in real produc
 
 Each folder contains the design files and any reference images/exports for that day's build.
 
----
 
-## 📺 Following Along
-
-This challenge is based on the **[Learn Autodesk Fusion 360 in 30 Days — 2026 Edition](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr)** playlist by **Kevin Kennedy / Product Design Online**. Huge credit to him for the free, structured curriculum — go check out the channel and consider supporting it.
-
----
 
 ## 📜 License
 
