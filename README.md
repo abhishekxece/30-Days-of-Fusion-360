@@ -105,7 +105,7 @@ By Day 30, this challenge covers the full Fusion 360 toolkit used in real produc
 └── README.md
 ```
 
-Each folder contains the design files and any reference images/exports for that day's build.
+Each folder contains the design files and any reference images/exports for that day's build. 
 
 
 
