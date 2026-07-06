@@ -32,7 +32,7 @@ Each day = **one real-world object** + **one new core CAD concept**. No theory d
 | 02 | Glass Soda Bottle | Reference Image Canvas, Fit Point Spline, Revolve, Appearances | ✅ |
 | 03 | Paperclip | Fully-Defined Sketches, Construction Lines, Tangent Arc, Sweep | ✅ |
 | 04 | Glass Bottle (Advanced) | Loft, Offset Construction Planes, Intersect, Modeled Threads | ✅ |
-| 05 | Ice Cube Tray | Tapered Extrude, FX Linked Dimensions, Multi-Face Shell, Patterning | ⬜ |
+| 05 | Ice Cube Tray | Tapered Extrude, FX Linked Dimensions, Multi-Face Shell, Patterning | ✅ |
 | 06 | Hex Nut | Polygons, Intersect, Midplane & Mirror, Thread Tool | ⬜ |
 | 07 | Bike Handlebar Grip | 3D Text & Emboss, Project vs. Intersect, Pattern of Bodies | ⬜ |
 | 08 | 3D-Printable Door Stop | Thin Extrude, Pattern on Path, STEP Export for Printing | ⬜ |
