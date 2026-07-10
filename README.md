@@ -35,7 +35,7 @@ Each day = **one real-world object** + **one new core CAD concept**. No theory d
 | 05 | Ice Cube Tray | Tapered Extrude, FX Linked Dimensions, Multi-Face Shell, Patterning | ✅ |
 | 06 | Hex Nut | Polygons, Intersect, Midplane & Mirror, Thread Tool | ✅ |
 | 07 | Bike Handlebar Grip | 3D Text & Emboss, Project vs. Intersect, Pattern of Bodies | ✅ |
-| 08 | 3D-Printable Door Stop | Thin Extrude, Pattern on Path, STEP Export for Printing | ⬜ |
+| 08 | 3D-Printable Door Stop | Thin Extrude, Pattern on Path, STEP Export for Printing | ✅ |
 | 09 | LED Light Bulb | Primitives, Intersect for Reference Points, Coil Tool, Materials | ⬜ |
 | 10 | Phone Case | STEP Import, Joints, Sweep Around Geometry, Chamfer | ⬜ |
 | 11 | Dog Bowl | Surface Modeling, Offset & Thicken, Hybrid Design, Components | ⬜ |
