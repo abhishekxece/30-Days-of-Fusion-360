@@ -5,7 +5,7 @@
 ### A daily CAD design challenge — from a 2×4 toy block to full animations
 
 [![Fusion 360](https://img.shields.io/badge/Autodesk-Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
-![Progress](https://img.shields.io/badge/Progress-Day%208%20%2F%2030.-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-Day%209%20%2F%2030.-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
@@ -36,7 +36,7 @@ Each day = **one real-world object** + **one new core CAD concept**. No theory d
 | 06 | Hex Nut | Polygons, Intersect, Midplane & Mirror, Thread Tool | ✅ |
 | 07 | Bike Handlebar Grip | 3D Text & Emboss, Project vs. Intersect, Pattern of Bodies | ✅ |
 | 08 | 3D-Printable Door Stop | Thin Extrude, Pattern on Path, STEP Export for Printing | ✅ |
-| 09 | LED Light Bulb | Primitives, Intersect for Reference Points, Coil Tool, Materials | ⬜ |
+| 09 | LED Light Bulb | Primitives, Intersect for Reference Points, Coil Tool, Materials | ✅ |
 | 10 | Phone Case | STEP Import, Joints, Sweep Around Geometry, Chamfer | ⬜ |
 | 11 | Dog Bowl | Surface Modeling, Offset & Thicken, Hybrid Design, Components | ⬜ |
 | 12 | Slotted Screwdriver | Multi-Component Assemblies, Circular Pattern, 3-Point Arc | ⬜ |
