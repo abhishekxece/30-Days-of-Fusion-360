@@ -5,7 +5,7 @@
 ### A daily CAD design challenge — from a 2×4 toy block to full animations
 
 [![Fusion 360](https://img.shields.io/badge/Autodesk-Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
-![Progress](https://img.shields.io/badge/Progress-Day%2012%20%2F%2030-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-Day%2013%20%2F%2030-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
@@ -40,7 +40,7 @@ Each day = **one real-world object** + **one new core CAD concept**. No theory d
 | 10 | Phone Case | STEP Import, Joints, Sweep Around Geometry, Chamfer | ✅ |
 | 11 | Dog Bowl | Surface Modeling, Offset & Thicken, Hybrid Design, Components | ✅ |
 | 12 | Slotted Screwdriver | Multi-Component Assemblies, Circular Pattern, 3-Point Arc | ✅ |
-| 13 | Tea Kettle | Design Intent, Geometric Constraints, Formulas/Equations, Paste New | ⬜ |
+| 13 | Tea Kettle | Design Intent, Geometric Constraints, Formulas/Equations, Paste New | ✅ |
 | 14 | Outlet Cover | All 13 Sketch Constraints, Degrees of Freedom | ⬜ |
 | 15 | Painter's Tripod | Loft to Point, Parametric Math Equations, Batch Printing Layout | ⬜ |
 | 16 | Parametric Box | User Parameters, Driving Dimensions Globally | ⬜ |
