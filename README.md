@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛠️ 30 Days of Fusion 360
+# 🛠️ 30 Days of Fusion 360 Challenge 
 
 ### A daily CAD design challenge — from a 2×4 toy block to full animations
 
