@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 About This Repo
+## 📌 About This Repo:
 
 This repository documents my 30-day journey of mastering **Autodesk Fusion 360**, going from complete-beginner sketches to parametric assemblies, surfacing, sheet metal, rendering, and animation.
 
