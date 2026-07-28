@@ -59,7 +59,7 @@ Each day = **one real-world object** + **one new core CAD concept**. No theory d
 | 29 | 2D Technical Drawing | Base/Projected Views, Dimensioning, Title Blocks, Export | ⬜ |
 | 30 | Animation & Exploded View | Animation Workspace, Storyboards, Component Transforms | ⬜ |
 
-**Legend:** ✅ Complete · 🔄 In Progress · ⬜ Not Started
+**Legend:** ✅ Complete · 🔄 In Progress 
 
 ---
 
