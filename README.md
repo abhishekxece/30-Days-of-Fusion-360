@@ -42,7 +42,7 @@ Each day = **one real-world object** + **one new core CAD concept**. No theory d
 | 12 | Slotted Screwdriver | Multi-Component Assemblies, Circular Pattern, 3-Point Arc | ✅ |
 | 13 | Tea Kettle | Design Intent, Geometric Constraints, Formulas/Equations, Paste New | ✅ |
 | 14 | Outlet Cover | All 13 Sketch Constraints, Degrees of Freedom | ✅ |
-| 15 | Painter's Tripod | Loft to Point, Parametric Math Equations, Batch Printing Layout | ⬜ |
+| 15 | Painter's Tripod | Loft to Point, Parametric Math Equations, Batch Printing Layout | ✅ |
 | 16 | Parametric Box | User Parameters, Driving Dimensions Globally | ⬜ |
 | 17 | Constraint Deep-Dive | Fully Constraining Complex Sketches | ⬜ |
 | 18 | Mesh → Solid | STL Mesh Import, Convert Mesh, Face Groups | ⬜ |
